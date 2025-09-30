@@ -16,3 +16,17 @@ It currently includes a **Python GUI** built with Tkinter,and a **MySQL database
 - Python (Tkinter)
 - MySQL (phpMyAdmin, XAMPP)
 - HTML/CSS/JavaScript – planned
+
+- ## Running the Project
+
+### Requirements
+- Python 3.x
+- Tkinter
+- XAMPP (Apache + MySQL)
+- phpMyAdmin
+
+### Setup Instructions
+1. Import `bistrobuddy_db.sql` into MySQL using phpMyAdmin
+2. Start Apache and MySQL from the XAMPP control panel
+3. Run `bistrobuddy.py` to launch the reservation GUI
+
